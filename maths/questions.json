@@ -311,7 +311,7 @@
 {"q":"Which is a pair of linear equations?", "A":"x + y = 6 and xy = 5","B":"2x + 3y = 9 and 4x – y = 1","C":"x² + y = 7 and x + y = 3","D":"None","answer":"B"},
 {"q":"If the lines intersect on y-axis, x-coordinate is:", "A":"0","B":"1","C":"2","D":"Cannot say","answer":"A"},
 {"q":"If the lines intersect on x-axis, y-coordinate is:", "A":"0","B":"1","C":"2","D":"Cannot say","answer":"A"},
-{"q":"The pair of equations of perpendicular lines is:", "A":"x + y = 5; x – y = 3","B":"x + y = 5; y = x","C":"2x + 3y = 5; 3x + 2y = 7","D":"x = 3; x = 5","answer":"A"},
+{"q":"The pair of equations of perpendicular lines is:", "A":"x + y = 5; x – y = 3","B":"x + y = 5; y = x","C":"2x + 3y = 5; 3x + 2y = 7","D":"x = 3; x = 5","answer":"A"}
     ]
   }
   
